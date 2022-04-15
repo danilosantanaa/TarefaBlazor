@@ -8,6 +8,9 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
+    <Folder Include="Components\" />
+    <Folder Include="Pages\Etapa\" />
+    <Folder Include="Pages\Tarefa\" />
   </ItemGroup>
 
   <ItemGroup>
